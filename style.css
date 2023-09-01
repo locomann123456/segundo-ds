@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+    color: white;
+    background-color: gray;
+}
+
+.titulo {
+    font-family: monospace;
+    color: black;
+    font-size: 250%
+}
+
+.subtitulo {
+    font-family: monospace;
+    font-size: 150%
+}
+.texto{
+    font-size: 150%;
+
+
+}
+.texto2{
+    font-size: 150%
+}
